@@ -161,42 +161,6 @@ section h1 {
   text-align: left;
 }
 /* ------------------------------------*/
-
-/* ------------- Article ------------- */
-/* article {
-  background-color: rgb(246, 224, 193);
-  padding: 15px;
-  margin: 15px 0;
-  border-radius: 10px;
-}
-
-article h1 {
-  color: #606c38;
-  text-align: center;
-  display: block;
-  margin: auto;
-}
-
-.schedule {
-  display: flex;
-  justify-content: space-between;
-}
-
-.schedule h3 {
-  color: rgb(255, 255, 255);
-  text-align: center;
-  margin: 20px 0;
-}
-
-.schedule span {
-  font-weight: bolder;
-  margin: 0 0 0 10px;
-}
-
-.schedule p {
-  text-align: left;
-} */
-/* -----------------------------------*/
 /*-------------- Footer --------------*/
 footer ul {
   display: flex;

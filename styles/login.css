@@ -38,7 +38,7 @@ input {
   border: 0;
 }
 #password,
-#username,
+#email,
 #login {
   width: 80%;
   margin: auto;
@@ -70,7 +70,7 @@ p a {
 }
 
 p a:hover {
-  color: rgb(223, 33, 33);
+  color: rgb(58, 67, 190);
   font-size: 22px;
   text-decoration: none;
 }
